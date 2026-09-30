@@ -17,14 +17,14 @@ This project analyzes transactional data from Bright Coffee Shop to uncover insi
 ---
 
 ## 🛠️ Tools & Technologies
-- **Planning**: Miro, Figma  
-- **Data Processing**: Databricks, SQL Server, MySQL Workbench, DBeaver  
-- **Visualization**: Excel, Power BI, Tableau, Google Sheets  
-- **Presentation**: PowerPoint, Canva  
+- **Planning**: Miro, Canva  
+- **Data Processing**: Databricks 
+- **Visualization**: Excel, Power BI, Data Studio, Loveable,databrciks dashboard
+- **Presentation**: PowerPoint
 
 ---
 
-## 📊 Key Insights to Deliver
+## 📊 Key Insights Delivered
 - **Revenue by product category**  
 - **Peak time intervals** (grouped into 30-min or 3-hour buckets)  
 - **Best-selling vs underperforming products**  
